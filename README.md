@@ -24,8 +24,5 @@ How to Run
 Make sure you have R installed.
 Save the script as data_summary.R.
 In the terminal or R console, run:
-
-bash
-Copy
-Edit
 Rscript data_summary.R
+
